@@ -10,7 +10,7 @@
 
 # Projet:
 
-## [Architect](https://github.com/Gaming-Linux-FR/Architecte)
+## [Architect](https://github.com/Gaming-Linux-FR/Architect)
 Le but de ce wiki et de ce script est d'installer une Arch Linux de base avec un ensemble minimal de paquets, adaptés à nos besoins spécifiques.
 
 ## [DREI](https://github.com/Gaming-Linux-FR/drei)
