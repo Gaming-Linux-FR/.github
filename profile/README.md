@@ -1,32 +1,32 @@
-# 🐧 Gaming Linux FR Community
+# 🐧 Communauté Gaming Linux FR
 
-### Gaming Linux FR is the first French-speaking community of passionate PC gamers on Linux. We organise podcasts, games evenings and help users of Open Source software and Linux systems.
+### Gaming Linux FR est la première communauté francophone de joueurs passionnés de PC sous Linux. Nous organisons des podcasts, des soirées de jeux et apportons de l'aide aux utilisateurs de logiciels Open Source et de systèmes Linux.
 
-# 🔗 Link
+# 🔗 Lien
 
 <a href="https://discord.gg/WCAKxxRA3t">
-  <img src="https://skillicons.dev/icons?i=discord" alt="Join us on Discord"/>
+  <img src="https://skillicons.dev/icons?i=discord" alt="Rejoignez-nous sur Discord"/>
 </a>
 
-# Project:
+# Projet:
 
-## [Architect](https://github.com/Gaming-Linux-FR/Architect)
-The purpose of this wiki and script is to install a stock Arch Linux with a minimal set of packages, tailored according to our specific needs.
+## [Architecte](https://github.com/Gaming-Linux-FR/Architecte)
+Le but de ce wiki et de ce script est d'installer une Arch Linux de base avec un ensemble minimal de paquets, adaptés à nos besoins spécifiques.
 
 ## [DREI](https://github.com/Gaming-Linux-FR/drei)
-DaVinci Resolve Easy Installer
+Installeur Facile de DaVinci Resolve (DaVinci Resolve Easy Installer)
 
 ## [Gaming Flatpak](https://github.com/Gaming-Linux-FR/Gaming-Flatpak)
-Easy installation of gaming tools using Flatpak. 
+Installation facile d'outils de jeu en utilisant Flatpak.
 
 ## [GLFfetch](https://github.com/Gaming-Linux-FR/GLFfetch)
- A customized neofetch config file built for the GLF Linux challenges.
+Un fichier de configuration neofetch personnalisé conçu pour les défis Linux de GLF.
 
-## [Meme Vault](https://github.com/Gaming-Linux-FR/meme-vault)
-The meme vault of Gaming Linux Fr, private jokes and dank memes treasures.
+## [Cave à Mèmes](https://github.com/Gaming-Linux-FR/meme-vault)
+La cave à mèmes de Gaming Linux FR, trésors de blagues privées et de mèmes marrants.
 
 ## [NUDI](https://github.com/Gaming-Linux-FR/NUDI)
-NUDI is designed to simplify the installation of Nvidia drivers across various Linux distributions. It supports Ubuntu, Debian, Fedora, Arch Linux, openSUSE, and their derivatives.
+NUDI est conçu pour simplifier l'installation des pilotes Nvidia sur diverses distributions Linux. Il prend en charge Ubuntu, Debian, Fedora, Arch Linux, openSUSE, et leurs dérivés.
 
 ## [Tuto Archlinux fr](https://github.com/Gaming-Linux-FR/tuto-archlinux-fr)
-Tuto arch linux post installation accompagné de vidéos. 
+Tutoriel post-installation pour Arch Linux accompagné de vidéos.
