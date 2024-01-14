@@ -2,8 +2,6 @@
 
 ### Gaming Linux FR est la première communauté francophone de joueurs passionnés de PC sous Linux. Nous organisons des podcasts, des soirées de jeux et apportons de l'aide aux utilisateurs de logiciels Open Source et de systèmes Linux.
 
-### Gaming Linux FR est la première communauté francophone de joueurs passionnés de PC sous Linux. Nous organisons des podcasts, des soirées de jeux et apportons de l'aide aux utilisateurs de logiciels Open Source et de systèmes Linux.
-
 # 🔗 Liens
 
 <a href="https://discord.gg/WCAKxxRA3t">
