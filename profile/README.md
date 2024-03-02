@@ -19,6 +19,9 @@ Installeur Facile de DaVinci Resolve (DaVinci Resolve Easy Installer)
 ## <img src="https://avatars.githubusercontent.com/u/155925679?s=400&u=a2d19ee8d2b4d67b48729c39e7562e7555c85295&v=4" width="30" height="30"> [Gaming Flatpak](https://github.com/Gaming-Linux-FR/Gaming-Flatpak)
 Installation facile d'outils de jeu en utilisant Flatpak.
 
+## <img src="https://avatars.githubusercontent.com/u/155925679?s=400&u=a2d19ee8d2b4d67b48729c39e7562e7555c85295&v=4" width="30" height="30"> [Post-install-Silverblue-Kinoite](https://github.com/Gaming-Linux-FR/post-install-silverblue-kinoite)
+Tuto pour la post installation de Kinoite et Silverblue .
+
 ## <img src="https://github.com/Cardiacman13/tuto-archlinux-fr/blob/main/assets/images/LOGO-A1RM4X-2K.png" width="30" height="30"> [GLFfetch](https://github.com/Gaming-Linux-FR/GLFfetch)
 Un fichier de configuration neofetch personnalisé conçu pour les défis Linux de GLF.
 
