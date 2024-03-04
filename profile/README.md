@@ -16,6 +16,9 @@ Le but de ce wiki et de ce script est d'installer une Arch Linux de base avec un
 ## <img src="https://github.com/Gaming-Linux-FR/.github/assets/83916775/26582681-5f18-4ec7-8e10-0ef2dce25d78" width="30" height="30"> [DREI](https://github.com/Gaming-Linux-FR/drei)
 Installeur Facile de DaVinci Resolve (DaVinci Resolve Easy Installer)
 
+## <img src="https://github.com/Cardiacman13/tuto-archlinux-fr/blob/main/assets/images/Cardiac-icon.png" width="30" height="30"> [Guide-Nvidia](https://github.com/Gaming-Linux-FR/guide-nvidia/tree/main)
+Guide d'installation des pilotes NVIDIA sur Linux pour cartes récentes.
+
 ## <img src="https://avatars.githubusercontent.com/u/155925679?s=400&u=a2d19ee8d2b4d67b48729c39e7562e7555c85295&v=4" width="30" height="30"> [Gaming Flatpak](https://github.com/Gaming-Linux-FR/Gaming-Flatpak)
 Installation facile d'outils de jeu en utilisant Flatpak.
 
