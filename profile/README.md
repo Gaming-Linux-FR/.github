@@ -6,13 +6,6 @@
 
 [![Rejoignez notre Discord](https://img.shields.io/badge/Discord-Rejoignez%20notre%20serveur-blue?style=for-the-badge&logo=discord)](https://discord.gg/WCAKxxRA3t)
 
-# Table des matières
-
-- [Projets](#projets)
-  - [Outils et Scripts](#outils-et-scripts)
-  - [Guides](#guides)
-- [Divers](#divers)
-
 ## Projets
 
 ### Outils et Scripts
