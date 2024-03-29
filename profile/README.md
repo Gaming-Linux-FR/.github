@@ -16,7 +16,7 @@
 - **[GLFfetch](https://github.com/Gaming-Linux-FR/GLFfetch)** : Fichier de configuration neofetch personnalisé.
 
 ### Guides distributions
-- **[Post-install-Mint](https://github.com/Gaming-Linux-FR/guide-mint)** : Tutoriel pour la post-installation de Linux Mint.
+- **[Linux-Mint](https://github.com/Gaming-Linux-FR/guide-mint)** : Tutoriel pour la post-installation de Linux Mint.
 - **[Post-install-Silverblue-Kinoite](https://github.com/Gaming-Linux-FR/post-install-silverblue-kinoite)** : Tutoriel pour la post-installation de Kinoite et Silverblue.
 - **[Tuto Archlinux fr](https://github.com/Gaming-Linux-FR/tuto-archlinux-fr)** : Tutoriel post-installation pour Arch Linux.
 
