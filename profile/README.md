@@ -17,16 +17,15 @@
 
 ### Guides distributions
 - **[Linux-Mint](https://github.com/Gaming-Linux-FR/guide-mint)** : Tutoriel pour la post-installation de Linux Mint.
-- **[Post-install-Silverblue-Kinoite](https://github.com/Gaming-Linux-FR/post-install-silverblue-kinoite)** : Tutoriel pour la post-installation de Kinoite et Silverblue.
-- **[Tuto Archlinux fr](https://github.com/Gaming-Linux-FR/tuto-archlinux-fr)** : Tutoriel post-installation pour Arch Linux.
+- **[Silverblue-Kinoite](https://github.com/Gaming-Linux-FR/post-install-silverblue-kinoite)** : Tutoriel pour la post-installation de Kinoite et Silverblue.
+- **[Archlinux](https://github.com/Gaming-Linux-FR/tuto-archlinux-fr)** : Tutoriel post-installation pour Arch Linux.
 
 ### Guides divers
 
-- **[Guide-Steam](https://github.com/Gaming-Linux-FR/steam-post-install)** : Guide de post installation pour Steam
-- **[Guide-Nvidia](https://github.com/Gaming-Linux-FR/guide-nvidia)** : Installation des pilotes NVIDIA sur Linux pour cartes récentes.
-- **[GLF-Astuces](https://github.com/Gaming-Linux-FR/glf-astuces)** : Astuces diverses, ne concernant pas une distribution spécifique.
+- **[Steam](https://github.com/Gaming-Linux-FR/steam-post-install)** : Guide de post installation pour Steam
+- **[Nvidia](https://github.com/Gaming-Linux-FR/guide-nvidia)** : Installation des pilotes NVIDIA sur Linux pour cartes récentes.
+- **[Astuces](https://github.com/Gaming-Linux-FR/glf-astuces)** : Astuces diverses, ne concernant pas une distribution spécifique.
 
 ## Divers
 
-- **[Cave à Mèmes](https://github.com/Gaming-Linux-FR/meme-vault)** : Collection de blagues privées et de mèmes de la communauté.
-https://github.com/Gaming-Linux-FR/steam-post-install
+- **[Cave à Mèmes](https://github.com/Gaming-Linux-FR/meme-vault)** : Collection de private joke et de mèmes de la communauté.
