@@ -1,6 +1,6 @@
 # <img src="https://avatars.githubusercontent.com/u/155925679?s=400&u=a2d19ee8d2b4d67b48729c39e7562e7555c85295&v=4" width="30" height="30"> Communauté Gaming Linux FR
 
-### Gaming Linux FR est la **première communauté francophone de joueurs passionnés de PC sous Linux**. Nous organisons des **podcasts**, des **soirées de jeux** et apportons de l'aide aux utilisateurs de logiciels Open Source et de systèmes Linux.
+### Gaming Linux FR est la première communauté francophone de joueurs passionnés de PC sous Linux. Cet ensemble de dépots contient le travail de la communauté pour faciliter l'installation et la configurations de jeux et outils gravitant autour du gaming ainsi que des trucs, astuces et choses plus légères de la communauté.
 
 # 🔗 Rejoignez-nous
 
