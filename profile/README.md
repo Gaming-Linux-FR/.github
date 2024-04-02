@@ -23,7 +23,7 @@
 ### Guides divers
 
 - **[Steam](https://github.com/Gaming-Linux-FR/steam-post-install)** : Guide de post installation pour Steam
-- **[Formater et monter un disque](https://github.com/Gaming-Linux-FR/guide-formater-monter/tree/main)**
+- **[Formater et monter un disque](https://github.com/Gaming-Linux-FR/guide-formater-monter/tree/main)** : Formater et monter au démarrage ses disques / SSD internes sur Linux
 - **[Nvidia](https://github.com/Gaming-Linux-FR/guide-nvidia)** : Installation des pilotes NVIDIA sur Linux pour cartes récentes.
 - **[Astuces](https://github.com/Gaming-Linux-FR/glf-astuces)** : Astuces diverses, ne concernant pas une distribution spécifique.
 
