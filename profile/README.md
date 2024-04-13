@@ -1,6 +1,6 @@
 # <img src="https://avatars.githubusercontent.com/u/155925679?s=400&u=a2d19ee8d2b4d67b48729c39e7562e7555c85295&v=4" width="30" height="30"> Communauté Gaming Linux FR
 
-### Gaming Linux FR est la première communauté francophone de joueurs passionnés de PC sous Linux. Cet ensemble de dépots contient le travail de la communauté pour faciliter l'installation et la configurations de jeux et outils gravitant autour du gaming ainsi que des trucs, astuces et choses plus légères de la communauté.
+### Gaming Linux FR est la première communauté francophone de joueurs passionnés de PC sous Linux. Cet ensemble de dépots contient le travail de la communauté pour faciliter l'installation et la configuration de jeux et outils gravitant autour du gaming ainsi que des trucs, astuces et choses plus légères de la communauté.
 
 # 🔗 Rejoignez-nous
 
@@ -22,11 +22,11 @@
 
 ### Guides divers
 
-- **[Steam](https://github.com/Gaming-Linux-FR/steam-post-install)** : Guide de post installation pour Steam
+- **[Steam](https://github.com/Gaming-Linux-FR/steam-post-install)** : Guide de post-installation pour Steam
 - **[Formater et monter un disque](https://github.com/Gaming-Linux-FR/guide-formater-monter/tree/main)** : Formater et monter au démarrage ses disques / SSD internes sur Linux
 - **[Nvidia](https://github.com/Gaming-Linux-FR/guide-nvidia)** : Installation des pilotes NVIDIA sur Linux pour cartes récentes.
 - **[Astuces](https://github.com/Gaming-Linux-FR/glf-astuces)** : Astuces diverses, ne concernant pas une distribution spécifique.
 
 ## Divers
 
-- **[Cave à Mèmes](https://github.com/Gaming-Linux-FR/meme-vault)** : Collection de private joke et de mèmes de la communauté.
+- **[Cave à Mèmes](https://github.com/Gaming-Linux-FR/meme-vault)** : Collection de private jokes et de mèmes de la communauté.
