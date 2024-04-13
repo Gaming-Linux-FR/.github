@@ -12,6 +12,7 @@
 
 - **[Architect](https://github.com/Gaming-Linux-FR/Architect)** : Installation d'une Arch Linux de base avec un ensemble minimal de paquets.
 - **[DREI](https://github.com/Gaming-Linux-FR/drei)** : Installeur Facile de DaVinci Resolve.
+- **[Fedora-GLF](https://github.com/Gaming-Linux-FR/Fedora-GLF)** : Script qui modifie Fedora Linux pour le gaming et la création de contenus.
 - **[Gaming Flatpak](https://github.com/Gaming-Linux-FR/Gaming-Flatpak)** : Installation facile d'outils de jeu en utilisant Flatpak.
 - **[GLFfetch](https://github.com/Gaming-Linux-FR/GLFfetch)** : Fichier de configuration neofetch personnalisé.
 
