@@ -19,7 +19,7 @@
 ### Guides distributions
 - **[Linux-Mint](https://github.com/Gaming-Linux-FR/guide-mint)**
 - **[Silverblue-Kinoite](https://github.com/Gaming-Linux-FR/post-install-silverblue-kinoite)**
-- **[Fedora](https://github.com/Gaming-Linux-FR/fedora-guide-fr)
+- **[Fedora]**(https://github.com/Gaming-Linux-FR/fedora-guide-fr)
 - **[Archlinux](https://github.com/Gaming-Linux-FR/tuto-archlinux-fr)**
 
 ### Guides divers
