@@ -21,6 +21,7 @@
 - **[Silverblue-Kinoite](https://github.com/Gaming-Linux-FR/post-install-silverblue-kinoite)**
 - **[Fedora](https://github.com/Gaming-Linux-FR/fedora-guide-fr)**
 - **[Archlinux](https://github.com/Gaming-Linux-FR/tuto-archlinux-fr)**
+- **[Ubuntu](https://github.com/Gaming-Linux-FR/Ubuntu)**
 
 ### Guides divers
 
